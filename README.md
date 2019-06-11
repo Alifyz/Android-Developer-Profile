@@ -11,7 +11,7 @@ Baseada e adaptada da matriz de habilidades criada pela comunidade de [Desenvolv
 Da esquerda para direita, a matriz representa o quão proeficiente o profissional desenvolvedor Android se encontra, incluindo diferentes tópicos e habilidades. 
 
 ## Matriz - Android Developer
-|                         | Junior                                                  | Middle                                                          | Senior                                                                      |
+|                         | Junior                                                  | Pleno                                                          | Senior                                                                      |
 |-------------------------|---------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **Perfil Geral**                 | can make a news app talking to a JSON API                | can timely design and deliver fast and reliable chat module     | can establish team behaviour standards with non-fanatical ideas             |
 | **GCS**       | uses git to move code around                            | has an opinion about GitFlow                                    | has ideas how to build a CI process and automate chores                     |
