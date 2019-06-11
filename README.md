@@ -1,2 +1,7 @@
-# android-developer-profile
-Repositório para mapeamento de Skills e níveis para desenvolvedores Android. 
+# Android - Developer
+
+![Cover](http://i64.tinypic.com/33nkyvb.png)
+
+## Skills Matrix
+
+
