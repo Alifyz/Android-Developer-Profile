@@ -27,3 +27,6 @@ Da esquerda para direita, a matriz representa o quão proeficiente o profissiona
 | **Design Patterns**         | understands Delegation, Target-Action and MVC idea      | is proficient at Observer, Facade and Mediator patterns         | knows the sweet spot between dependency injection and service locator       |
 | **Product Quality**         | the app is tested if it works on my phone               | writes unit tests and tried TDD and UI tests                    | defines a maintainable test pyramid with non-overlapping coverage areas | 
 
+## Fonte 
+
+[Repositório da Comunidade iOS - Matriz de Habilidade](https://github.com/BohdanOrlov/ios-skills-matrix/blob/master/README.md)
