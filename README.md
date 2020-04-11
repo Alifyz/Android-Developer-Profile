@@ -1,7 +1,5 @@
 # Android - Developer
 
-![Cover](http://i64.tinypic.com/33nkyvb.png)
-
 ## Matriz de Habilidades
 
 Baseada e adaptada da matriz de habilidades criada pela comunidade de [Desenvolvedores iOS](https://github.com/BohdanOrlov/ios-skills-matrix), este projeto visa documentar e mapear o perfil do profissional desenvolvedor Android. 
